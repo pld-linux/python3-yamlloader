@@ -7,7 +7,7 @@ Summary:	Ordered YAML loader and dumper for PyYAML
 Summary(pl.UTF-8):	Moduł dla PyYAML-a do wczytywania i zapisywania YAML-a z zachowaniem porządku
 Name:		python-yamlloader
 Version:	0.5.5
-Release:	3
+Release:	4
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/yamlloader/
