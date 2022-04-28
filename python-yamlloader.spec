@@ -6,6 +6,7 @@
 Summary:	Ordered YAML loader and dumper for PyYAML
 Summary(pl.UTF-8):	Moduł dla PyYAML-a do wczytywania i zapisywania YAML-a z zachowaniem porządku
 Name:		python-yamlloader
+# keep 0.x here for python2 support
 Version:	0.5.5
 Release:	6
 License:	MIT
