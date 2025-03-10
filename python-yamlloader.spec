@@ -8,7 +8,7 @@ Summary(pl.UTF-8):	Moduł dla PyYAML-a do wczytywania i zapisywania YAML-a z zac
 Name:		python-yamlloader
 # keep 0.x here for python2 support
 Version:	0.5.5
-Release:	6
+Release:	7
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/yamlloader/
